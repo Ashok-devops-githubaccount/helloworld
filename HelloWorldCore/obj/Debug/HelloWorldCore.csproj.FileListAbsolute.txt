@@ -1,0 +1,11 @@
+C:/Users/RA20410703/Desktop/HelloWorld/HelloWorldCore/bin/Debug/HelloWorldCore.dll
+C:/Users/RA20410703/Desktop/HelloWorld/HelloWorldCore/bin/Debug/HelloWorldCore.pdb
+C:/Users/RA20410703/Desktop/HelloWorld/HelloWorldCore/obj/Debug/HelloWorldCore.csproj.AssemblyReference.cache
+C:/Users/RA20410703/Desktop/HelloWorld/HelloWorldCore/obj/Debug/HelloWorldCore.csproj.CoreCompileInputs.cache
+C:/Users/RA20410703/Desktop/HelloWorld/HelloWorldCore/obj/Debug/HelloWorldCore.dll
+C:/Users/RA20410703/Desktop/HelloWorld/HelloWorldCore/obj/Debug/HelloWorldCore.pdb
+/Users/spasem/Downloads/HelloWorld/MyDotNet/HelloWorldCore/bin/Debug/HelloWorldCore.dll
+/Users/spasem/Downloads/HelloWorld/MyDotNet/HelloWorldCore/bin/Debug/HelloWorldCore.pdb
+/Users/spasem/Downloads/HelloWorld/MyDotNet/HelloWorldCore/obj/Debug/HelloWorldCore.csproj.CoreCompileInputs.cache
+/Users/spasem/Downloads/HelloWorld/MyDotNet/HelloWorldCore/obj/Debug/HelloWorldCore.dll
+/Users/spasem/Downloads/HelloWorld/MyDotNet/HelloWorldCore/obj/Debug/HelloWorldCore.pdb

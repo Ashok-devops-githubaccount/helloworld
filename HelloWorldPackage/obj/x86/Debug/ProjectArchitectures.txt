@@ -1,0 +1,2 @@
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\HelloWorld.csproj;x86
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorldPackage\HelloWorldPackage.wapproj;x86

@@ -1,0 +1,32 @@
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorldPackage\Images\SplashScreen.scale-200.png
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorldPackage\Images\LockScreenLogo.scale-200.png
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorldPackage\Images\Square150x150Logo.scale-200.png
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorldPackage\Images\Square44x44Logo.scale-200.png
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorldPackage\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorldPackage\Images\StoreLogo.png
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorldPackage\Images\Wide310x150Logo.scale-200.png
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorldPackage\bin\x86\Debug\resources.pri
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\bin\x86\Debug\HelloWorld.pdb
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\bin\x86\Debug\HelloWorld.exe
+C:\Users\RA20410703\.nuget\packages\newtonsoft.json\13.0.2\lib\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\RA20410703\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\Pdf417EncoderLibrary.dll
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\SaneiBarcodeLibrary.dll
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\StarIO.dll
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\StarIODeviceSetting.dll
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\StarIOExtension.dll
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\StarIOPort_x64.dll
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\Properties\Default.rd.xml
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\Assets\LockScreenLogo.scale-200.png
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\Assets\SplashScreen.scale-200.png
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\Assets\Square150x150Logo.scale-200.png
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\Assets\Square44x44Logo.scale-200.png
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\Assets\StoreLogo.png
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\Assets\Wide310x150Logo.scale-200.png
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\bin\x86\Debug\HelloWorld.xr.xml
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\bin\x86\Debug\App.xbf
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\bin\x86\Debug\MainPage.xbf
+C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd
+C:\Users\RA20410703\Desktop\HelloWorld\HelloWorld\bin\x86\Debug\Core\HelloWorld.exe
